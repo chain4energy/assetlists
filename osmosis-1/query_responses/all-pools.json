@@ -18,14 +18,14 @@
         {
           "token": {
             "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-            "amount": "722192857816"
+            "amount": "721746741316"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "6373098713107"
+            "amount": "6377046516371"
           },
           "weight": "536870912000000"
         }
@@ -146,14 +146,14 @@
         {
           "token": {
             "denom": "ibc/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84",
-            "amount": "122273726816705"
+            "amount": "122269178564597"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "181823269784"
+            "amount": "181830046924"
           },
           "weight": "536870912000000"
         }
@@ -274,14 +274,14 @@
         {
           "token": {
             "denom": "ibc/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1",
-            "amount": "279517550737211"
+            "amount": "279320308019161"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "373832142526"
+            "amount": "374097292124"
           },
           "weight": "536870912000000"
         }
@@ -306,14 +306,14 @@
         {
           "token": {
             "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-            "amount": "13605094183"
+            "amount": "13617715786"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1",
-            "amount": "90127497256423"
+            "amount": "90044212805444"
           },
           "weight": "536870912000000"
         }
@@ -402,14 +402,14 @@
         {
           "token": {
             "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-            "amount": "3313537757"
+            "amount": "3314103206"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293",
-            "amount": "89425984486"
+            "amount": "89410772479"
           },
           "weight": "536870912000000"
         }
@@ -690,14 +690,14 @@
         {
           "token": {
             "denom": "ibc/1DCC8A6CB5689018431323953344A9F6CC4D0BFB261E88C9F7777372C10CD076",
-            "amount": "133408989171"
+            "amount": "133408991755"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-            "amount": "1225505293"
+            "amount": "1225505270"
           },
           "weight": "536870912000000"
         }
@@ -15369,14 +15369,14 @@
         {
           "token": {
             "denom": "ibc/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59",
-            "amount": "4791645982087"
+            "amount": "4790938828226"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "40527803635"
+            "amount": "40533803635"
           },
           "weight": "536870912000000"
         }
@@ -16471,14 +16471,14 @@
         {
           "token": {
             "denom": "ibc/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED",
-            "amount": "641807916364"
+            "amount": "641766950143"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "144172013367"
+            "amount": "144181244062"
           },
           "weight": "536870912000000"
         }
@@ -16503,14 +16503,14 @@
         {
           "token": {
             "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-            "amount": "13419853648"
+            "amount": "13419853632"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED",
-            "amount": "527688720144"
+            "amount": "527688720795"
           },
           "weight": "536870912000000"
         }
@@ -19255,14 +19255,14 @@
         {
           "token": {
             "denom": "ibc/0954E1C28EB7AF5B72D24F3BC2B47BBB2FDF91BDDFD57B74B99E133AED40972A",
-            "amount": "514514419624"
+            "amount": "514513084768"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "231513162023"
+            "amount": "231513763866"
           },
           "weight": "536870912000000"
         }
@@ -19667,14 +19667,14 @@
         {
           "token": {
             "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-            "amount": "1233613391"
+            "amount": "1235111891"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/FE2CD1E6828EC0FAB8AF39BAC45BC25B965BA67CCBC50C13A14BD610B0D1E2C4",
-            "amount": "402417244304"
+            "amount": "401930474347"
           },
           "weight": "536870912000000"
         }
@@ -20147,14 +20147,14 @@
         {
           "token": {
             "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-            "amount": "19572328145"
+            "amount": "19579870805"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4",
-            "amount": "7796203520806"
+            "amount": "7793209233028"
           },
           "weight": "536870912000000"
         }
@@ -21114,14 +21114,14 @@
         {
           "token": {
             "denom": "ibc/67795E528DF67C5606FC20F824EA39A6EF55BA133F4DC79C90A8C47A0901E17C",
-            "amount": "5652093712014"
+            "amount": "5653169013799"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "21171736940"
+            "amount": "21167717870"
           },
           "weight": "536870912000000"
         }
@@ -21434,14 +21434,14 @@
         {
           "token": {
             "denom": "ibc/8FEFAE6AECF6E2A255585617F781F35A8D5709A545A804482A261C0C9548A9D3",
-            "amount": "300216618709665"
+            "amount": "300180494141926"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "21193475216"
+            "amount": "21196030810"
           },
           "weight": "536870912000000"
         }
@@ -22305,14 +22305,14 @@
         {
           "token": {
             "denom": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
-            "amount": "657879257870"
+            "amount": "658676669418"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "734512919278"
+            "amount": "733627138565"
           },
           "weight": "536870912000000"
         }
@@ -22415,14 +22415,14 @@
         {
           "token": {
             "denom": "ibc/5D1F516200EE8C6B2354102143B78A2DEDA25EDE771AC0F8DC3C1837C8FD4447",
-            "amount": "289591308310864452040260"
+            "amount": "289571371550596622319649"
           },
           "weight": "5368709120"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "631903747788"
+            "amount": "631947384773"
           },
           "weight": "5368709120"
         }
@@ -23055,14 +23055,14 @@
         {
           "token": {
             "denom": "ibc/67C89B8B0A70C08F093C909A4DD996DD10E0494C87E28FD9A551697BF173D4CA",
-            "amount": "92817905556587"
+            "amount": "89593116946661"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "2908581757"
+            "amount": "3013514180"
           },
           "weight": "536870912000000"
         }
@@ -23449,14 +23449,14 @@
         {
           "token": {
             "denom": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
-            "amount": "1599423827"
+            "amount": "1597583769"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "1087647209061"
+            "amount": "1088902447305"
           },
           "weight": "536870912000000"
         }
@@ -23769,14 +23769,14 @@
         {
           "token": {
             "denom": "ibc/6AE98883D4D5D5FF9E50D7130F1305DA2FFA0C652D1DD9C123657C6B4EB2DF8A",
-            "amount": "4301685766563256413673298"
+            "amount": "4290933302264029982370687"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "258199744672"
+            "amount": "258848053320"
           },
           "weight": "1073741824"
         }
@@ -23865,14 +23865,14 @@
         {
           "token": {
             "denom": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
-            "amount": "12413968114384090272578"
+            "amount": "12415100158764859929310"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "352926504701"
+            "amount": "352899987328"
           },
           "weight": "536870912000000"
         }
@@ -24025,14 +24025,14 @@
         {
           "token": {
             "denom": "ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205",
-            "amount": "8094855956"
+            "amount": "8094785984"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "5718915444"
+            "amount": "5718964978"
           },
           "weight": "536870912000000"
         }
@@ -25561,14 +25561,14 @@
         {
           "token": {
             "denom": "ibc/52C57FCA7D6854AA178E7A183DDBE4EF322B904B1D719FC485F6FFBC1F72A19E",
-            "amount": "9603211284233"
+            "amount": "9607184307233"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "13499753488"
+            "amount": "13494187446"
           },
           "weight": "536870912000000"
         }
@@ -26105,14 +26105,14 @@
         {
           "token": {
             "denom": "ibc/2DA9C149E9AD2BD27FEFA635458FB37093C256C1A940392634A16BEA45262604",
-            "amount": "77145000845"
+            "amount": "77148996845"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "8107003849"
+            "amount": "8106584780"
           },
           "weight": "536870912000000"
         }
@@ -26137,14 +26137,14 @@
         {
           "token": {
             "denom": "ibc/E09ED39F390EC51FA9F3F69BEA08B5BBE6A48B3057B2B1C3467FAAE9E58B021B",
-            "amount": "32922763693616006559096591"
+            "amount": "32922519206078392819821181"
           },
           "weight": "5368709120"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "622382284854"
+            "amount": "622386916020"
           },
           "weight": "5368709120"
         }
@@ -26233,14 +26233,14 @@
         {
           "token": {
             "denom": "ibc/161D7D62BAB3B9C39003334F1671208F43C06B643CC9EDBBE82B64793C857F1D",
-            "amount": "9338311719"
+            "amount": "9354988610"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "110366473536"
+            "amount": "110170118935"
           },
           "weight": "536870912000000"
         }
@@ -26660,14 +26660,14 @@
         {
           "token": {
             "denom": "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E",
-            "amount": "862959533564"
+            "amount": "862122847801"
           },
           "weight": "5368709120"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "1079007314938"
+            "amount": "1080056585422"
           },
           "weight": "5368709120"
         }
@@ -27304,14 +27304,14 @@
         {
           "token": {
             "denom": "ibc/8E697BDABE97ACE8773C6DF7402B2D1D5104DD1EEABE12608E3469B7F64C15BA",
-            "amount": "825162035894"
+            "amount": "824784840215"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "313027774026"
+            "amount": "313171360574"
           },
           "weight": "536870912000000"
         }
@@ -27557,14 +27557,14 @@
         {
           "token": {
             "denom": "ibc/F4A070A6D78496D53127EA85C094A9EC87DFC1F36071B8CCDDBD020F933D213D",
-            "amount": "407005968436207556041"
+            "amount": "406825669100484748263"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "239608784384"
+            "amount": "239715188420"
           },
           "weight": "536870912000000"
         }
@@ -28913,14 +28913,14 @@
         {
           "token": {
             "denom": "ibc/B9606D347599F0F2FDF82BA3EE339000673B7D274EA50F59494DC51EFCD42163",
-            "amount": "33945129449127904346717"
+            "amount": "34217299912638380040100"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "11542256135"
+            "amount": "11453184654"
           },
           "weight": "1073741824"
         }
@@ -29429,14 +29429,14 @@
         {
           "token": {
             "denom": "ibc/B1E0166EA0D759FDF4B207D1F5F12210D8BFE36F2345CEFC76948CE2B36DFBAF",
-            "amount": "279525372394795072850995"
+            "amount": "279422563245717683425658"
           },
           "weight": "5368709120"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "10829698843"
+            "amount": "10833691447"
           },
           "weight": "5368709120"
         }
@@ -30185,11 +30185,11 @@
       "pool_liquidity": [
         {
           "denom": "ibc/6AE98883D4D5D5FF9E50D7130F1305DA2FFA0C652D1DD9C123657C6B4EB2DF8A",
-          "amount": "234088951771850503559355"
+          "amount": "235881283875196230363619"
         },
         {
           "denom": "ibc/C5579A9595790017C600DD726276D978B9BF314CF82406CE342720A9C7911A01",
-          "amount": "121595502734388664603926"
+          "amount": "120418846947602174360949"
         }
       ],
       "scaling_factors": [
@@ -30411,14 +30411,14 @@
         {
           "token": {
             "denom": "ibc/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59",
-            "amount": "765639596731"
+            "amount": "765875337895"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
-            "amount": "1968100897273939956"
+            "amount": "1967496314958140325"
           },
           "weight": "536870912000000"
         }
@@ -30443,14 +30443,14 @@
         {
           "token": {
             "denom": "ibc/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59",
-            "amount": "727779968182"
+            "amount": "728251380879"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
-            "amount": "9112749"
+            "amount": "9106862"
           },
           "weight": "536870912000000"
         }
@@ -33326,14 +33326,14 @@
         {
           "token": {
             "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-            "amount": "4392714582"
+            "amount": "4392724572"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/CEE970BB3D26F4B907097B6B660489F13F3B0DA765B83CC7D9A0BC0CE220FA6F",
-            "amount": "322796293882"
+            "amount": "322795561977"
           },
           "weight": "536870912000000"
         }
@@ -34545,14 +34545,14 @@
         {
           "token": {
             "denom": "ibc/56D7C03B8F6A07AD322EEE1BEF3AE996E09D1C1E34C27CF37E0D4A0AC5972516",
-            "amount": "100770450159447391644"
+            "amount": "100737549973843704079"
           },
           "weight": "5368709120"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "709091217861"
+            "amount": "709323266297"
           },
           "weight": "5368709120"
         }
@@ -34673,14 +34673,14 @@
         {
           "token": {
             "denom": "ibc/23AB778D694C1ECFC59B91D8C399C115CC53B0BD1C61020D8E19519F002BDD85",
-            "amount": "31416400129236121037527"
+            "amount": "31382422819661489166454"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "5062268269"
+            "amount": "5067760102"
           },
           "weight": "1073741824"
         }
@@ -34821,8 +34821,8 @@
       "current_tick_liquidity": "61516877437779452.626342318076358701",
       "token0": "uosmo",
       "token1": "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7",
-      "current_sqrt_price": "946626.472613210722662681017207297575560112",
-      "current_tick": "106961016",
+      "current_sqrt_price": "946650.071730912437547502309942571546261089",
+      "current_tick": "106961463",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -35122,8 +35122,8 @@
       "current_tick_liquidity": "741443053.855858185636456138",
       "token0": "uosmo",
       "token1": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-      "current_sqrt_price": "0.949649461278158060804008583859120987",
-      "current_tick": "-981660",
+      "current_sqrt_price": "0.947968446353641265565921049865351002",
+      "current_tick": "-1013559",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -35135,15 +35135,15 @@
       "incentives_address": "osmo1mvnsayk8y4hvnvkyn3qhcuxhpmypdentdfaaprnxet0r9xs3hphs08fwj4",
       "spread_rewards_address": "osmo17t4zncp7dugus3hvksv25mlpam4j69mng8u22yu48uz48qtm88qsdvkg84",
       "id": "1077",
-      "current_tick_liquidity": "1118537197758.894069342810086414",
+      "current_tick_liquidity": "203660577359513.394697295701658156",
       "token0": "uosmo",
       "token1": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-      "current_sqrt_price": "0.944967396249776736060927417312693660",
-      "current_tick": "-1070367",
+      "current_sqrt_price": "0.946919691870647469805463705830797556",
+      "current_tick": "-1033431",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:31.336390334Z"
+      "last_liquidity_update": "2024-04-18T00:46:06.840958988Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -35154,8 +35154,8 @@
       "current_tick_liquidity": "456897596.524528304690694187",
       "token0": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
       "token1": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-      "current_sqrt_price": "2.811828195885214611530143453324526000",
-      "current_tick": "6906377",
+      "current_sqrt_price": "2.812703172796979868101614384981006027",
+      "current_tick": "6911299",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -35167,15 +35167,15 @@
       "incentives_address": "osmo1l69ezdupyq5num5mz2l3c9ua7ydh8xws5m0h679ys28snk85wmfq6qwawt",
       "spread_rewards_address": "osmo1aqv29v4fune50dxu4twccutd7pfc9qy2kg32d77qxpacwz6l4ptq3mg06d",
       "id": "1079",
-      "current_tick_liquidity": "28950529.472494871593511194",
+      "current_tick_liquidity": "24833383.589277467729542270",
       "token0": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
       "token1": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-      "current_sqrt_price": "2.829879202454793142477320059978820982",
-      "current_tick": "7008216",
+      "current_sqrt_price": "2.816958950839216973445756525047985639",
+      "current_tick": "6935257",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-17T18:02:07.384625074Z"
+      "last_liquidity_update": "2024-04-18T00:40:57.220667297Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -35202,8 +35202,8 @@
       "current_tick_liquidity": "24809380130056.827896486752774377",
       "token0": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
       "token1": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-      "current_sqrt_price": "0.999667881316233548743610638546781969",
-      "current_tick": "-6642",
+      "current_sqrt_price": "0.999665932532688152231216097813378522",
+      "current_tick": "-6681",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000100000000000000",
@@ -35441,8 +35441,8 @@
       "current_tick_liquidity": "45179519608.612808714766078937",
       "token0": "uosmo",
       "token1": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
-      "current_sqrt_price": "0.038335867505203635501926206719513136",
-      "current_tick": "-26530362",
+      "current_sqrt_price": "0.038305737911249265804333245534037596",
+      "current_tick": "-26532671",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -35473,8 +35473,8 @@
       "current_tick_liquidity": "12643819017904.460099496265089154",
       "token0": "ibc/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1",
       "token1": "uosmo",
-      "current_sqrt_price": "0.036502066479531253772756077821741463",
-      "current_tick": "-26667600",
+      "current_sqrt_price": "0.036526998676259758228449543590134725",
+      "current_tick": "-26665779",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -35489,8 +35489,8 @@
       "current_tick_liquidity": "2177348575018.007860453373363944",
       "token0": "ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4",
       "token1": "uosmo",
-      "current_sqrt_price": "2.034605815219868678776226304933467936",
-      "current_tick": "3139620",
+      "current_sqrt_price": "2.035135490497137713056381165937335604",
+      "current_tick": "3141776",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -35505,8 +35505,8 @@
       "current_tick_liquidity": "1969093483888.407575288680687211",
       "token0": "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E",
       "token1": "uosmo",
-      "current_sqrt_price": "1.118442591673164147955673184731141317",
-      "current_tick": "250913",
+      "current_sqrt_price": "1.119121345242550474798780621698713230",
+      "current_tick": "252432",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -35534,15 +35534,15 @@
       "incentives_address": "osmo17vrdduamkeuwsk38arpgw837adh0x0atx5x4rk5dy0xddd5u4lhqkxnzx3",
       "spread_rewards_address": "osmo1lwfj55cku27nr5j6tjawma9pjgy26p9j2cy73m4qqwarcvp76pfq8camyk",
       "id": "1096",
-      "current_tick_liquidity": "5067564486650.493715972568403768",
+      "current_tick_liquidity": "5065165523478.926196917004939854",
       "token0": "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4",
       "token1": "uosmo",
-      "current_sqrt_price": "0.148685786474918656274498181754045212",
-      "current_tick": "-16789254",
+      "current_sqrt_price": "0.148823195035639021705021295831447352",
+      "current_tick": "-16785166",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.003000000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:25.057597039Z"
+      "last_liquidity_update": "2024-04-18T00:46:58.517688099Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -35553,8 +35553,8 @@
       "current_tick_liquidity": "322508529302.742911268913132809",
       "token0": "ibc/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED",
       "token1": "uosmo",
-      "current_sqrt_price": "0.475305118607731180866618614433722559",
-      "current_tick": "-7740851",
+      "current_sqrt_price": "0.475303723225639416431140305501537074",
+      "current_tick": "-7740864",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.003000000000000000",
@@ -35569,8 +35569,8 @@
       "current_tick_liquidity": "517142587941.491333146387742449",
       "token0": "ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4",
       "token1": "uosmo",
-      "current_sqrt_price": "1.545360356418956687215461225325681955",
-      "current_tick": "1388138",
+      "current_sqrt_price": "1.545372945382774025275211239206517749",
+      "current_tick": "1388177",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -35617,8 +35617,8 @@
       "current_tick_liquidity": "83789810117.070823880539683345",
       "token0": "ibc/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293",
       "token1": "uosmo",
-      "current_sqrt_price": "0.573374520813504262719054892500806953",
-      "current_tick": "-6712417",
+      "current_sqrt_price": "0.573947955564407801060209787619697672",
+      "current_tick": "-6705838",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -35665,8 +35665,8 @@
       "current_tick_liquidity": "302829509190.979518383649964075",
       "token0": "ibc/2DA9C149E9AD2BD27FEFA635458FB37093C256C1A940392634A16BEA45262604",
       "token1": "uosmo",
-      "current_sqrt_price": "0.323881800774006134252779938138592629",
-      "current_tick": "-8951006",
+      "current_sqrt_price": "0.323901736999059395457060199078595610",
+      "current_tick": "-8950877",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -35777,8 +35777,8 @@
       "current_tick_liquidity": "7337922439385.404090569645076741",
       "token0": "ibc/B9E0A1A524E98BB407D3CED8720EFEFD186002F90C1B1B7964811DD0CCC12228",
       "token1": "uosmo",
-      "current_sqrt_price": "0.011459634328356930894080345152832199",
-      "current_tick": "-35686768",
+      "current_sqrt_price": "0.011444114246342390543677394974894001",
+      "current_tick": "-35690323",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -36222,8 +36222,8 @@
       "current_tick_liquidity": "1057197072251.680232127632446890",
       "token0": "uosmo",
       "token1": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
-      "current_sqrt_price": "0.945941497527850121164810174077752175",
-      "current_tick": "-1051947",
+      "current_sqrt_price": "0.946502102004292129660271687525806040",
+      "current_tick": "-1041338",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -36235,15 +36235,15 @@
       "incentives_address": "osmo1faws2dw7v7htacwsggnl7azzg4lercgs533ajqa7rnvgxzm2fd0suxsa0a",
       "spread_rewards_address": "osmo1w0engrwdr6kuxjtmpyygm4pevufjg940kf2ya6s78gtpgrt60s7s4gzk6v",
       "id": "1134",
-      "current_tick_liquidity": "2799767407799613485.260074388756908037",
+      "current_tick_liquidity": "10856274278384417548.636660760693188871",
       "token0": "uosmo",
       "token1": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
-      "current_sqrt_price": "17393.425337457211003882505627952031961976",
-      "current_tick": "74025312",
+      "current_sqrt_price": "17393.408550996432753668080707476496783649",
+      "current_tick": "74025306",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:25.057597039Z"
+      "last_liquidity_update": "2024-04-18T00:45:17.202446606Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -36254,7 +36254,7 @@
       "current_tick_liquidity": "16036106499297.275156418192819854",
       "token0": "uosmo",
       "token1": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-      "current_sqrt_price": "0.336348569228832863272339349677988173",
+      "current_sqrt_price": "0.336348569224143811716243884278692797",
       "current_tick": "-8868697",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
@@ -36295,14 +36295,14 @@
         {
           "token": {
             "denom": "ibc/208B2F137CDE510B44C41947C045CFDC27F996A9D990EA64460BDD5B3DBEB2ED",
-            "amount": "1607587295418"
+            "amount": "1608120153052"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
-            "amount": "57496862572"
+            "amount": "57477848827"
           },
           "weight": "536870912000000"
         }
@@ -36606,7 +36606,7 @@
       "current_tick_liquidity": "9649738340355353.785307175709401282",
       "token0": "ibc/8242AD24008032E457D2E12D46588FD39FB54FB29680C6C7663D296B383C37C4",
       "token1": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-      "current_sqrt_price": "0.999483686791071412135969411485176378",
+      "current_sqrt_price": "0.999483686748721659661255191787389841",
       "current_tick": "-10324",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
@@ -36750,8 +36750,8 @@
       "current_tick_liquidity": "4407222363.925938062643614646",
       "token0": "ibc/CEE970BB3D26F4B907097B6B660489F13F3B0DA765B83CC7D9A0BC0CE220FA6F",
       "token1": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-      "current_sqrt_price": "0.330037864541521186923577908010825000",
-      "current_tick": "-8910751",
+      "current_sqrt_price": "0.329247819803491217096880194224359516",
+      "current_tick": "-8915959",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -37305,15 +37305,15 @@
       "incentives_address": "osmo103jatcwfcgqpamwd3977a36qs89adylnz8vzvsx7rh67fn3q7qusfhmza0",
       "spread_rewards_address": "osmo1jl3u8v3hvm9a50uns356ld22vfs4wnqcsjkqca2syfzqd49nwkfqfgjm44",
       "id": "1189",
-      "current_tick_liquidity": "84337869911.617801395935443462",
+      "current_tick_liquidity": "82488215516.723328587698596144",
       "token0": "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E",
       "token1": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-      "current_sqrt_price": "1.057389060651147679586047876084953425",
-      "current_tick": "118071",
+      "current_sqrt_price": "1.060316252835581188314746412939310084",
+      "current_tick": "124270",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:32:39.933780524Z"
+      "last_liquidity_update": "2024-04-18T00:44:04.715959265Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -37792,14 +37792,14 @@
         {
           "token": {
             "denom": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-            "amount": "10856440492"
+            "amount": "10853959944"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/B1E0166EA0D759FDF4B207D1F5F12210D8BFE36F2345CEFC76948CE2B36DFBAF",
-            "amount": "310740004541250619495710"
+            "amount": "310811162961777605723294"
           },
           "weight": "536870912000000"
         }
@@ -37844,15 +37844,15 @@
       "incentives_address": "osmo18wpppl3e0z9u45psrjkv4rjh5ete7y8lsfz9uk02tg5mzex7sgdqzudl50",
       "spread_rewards_address": "osmo1apreqcw0g68t8lyhkcw537k5q6c6aa5nand85u8nhlkyu8wqvqssxttqj9",
       "id": "1220",
-      "current_tick_liquidity": "1414484431746838.117150082284106362",
+      "current_tick_liquidity": "1431100950918626.276466162556670888",
       "token0": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "1.000331413456673162503657778242158667",
-      "current_tick": "662",
+      "current_sqrt_price": "1.000331640154127866452412648569914840",
+      "current_tick": "663",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000100000000000000",
-      "last_liquidity_update": "2024-04-18T00:34:47.916776449Z"
+      "last_liquidity_update": "2024-04-18T00:42:31.838774321Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -37860,15 +37860,15 @@
       "incentives_address": "osmo16audzujeqr3psjzp682vnjn56lemrn4xmgqd2ar7zq5p9vzalwwsera3rc",
       "spread_rewards_address": "osmo1upen9pnhnut483425xccv2rnhxnmxfe90rcn9nr6m98au8xgsr6sm0z45q",
       "id": "1221",
-      "current_tick_liquidity": "612204998567.814285236591451320",
+      "current_tick_liquidity": "85859265230613.055502316717338115",
       "token0": "uosmo",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.945914382304140399236579146545308143",
-      "current_tick": "-1052460",
+      "current_sqrt_price": "0.946253667434228361726779567314773679",
+      "current_tick": "-1046040",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:39:01.302538431Z"
+      "last_liquidity_update": "2024-04-18T00:43:49.070448710Z"
     },
     {
       "@type": "/osmosis.gamm.v1beta1.Pool",
@@ -37911,8 +37911,8 @@
       "current_tick_liquidity": "7781856309983559.710011169985696407",
       "token0": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.999891351428141754156686273429339684",
-      "current_tick": "-2173",
+      "current_sqrt_price": "0.999891188213646445405591053360428333",
+      "current_tick": "-2177",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000100000000000000",
@@ -37927,8 +37927,8 @@
       "current_tick_liquidity": "24924343949863.039095684975036702",
       "token0": "ibc/92BE0717F4678905E53F4E45B2DED18BC0CB97BF1F8B6A25AFEDF3D5A879B4D5",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.999963032720611952035493693747121080",
-      "current_tick": "-740",
+      "current_sqrt_price": "0.999962815165776018663740373970946529",
+      "current_tick": "-744",
       "tick_spacing": "1000",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000100000000000000",
@@ -38440,8 +38440,8 @@
       "current_tick_liquidity": "48569871946.784283811622924112",
       "token0": "ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "1.465067164328315511246707016082594053",
-      "current_tick": "1146421",
+      "current_sqrt_price": "1.464934996359783919901412202926141468",
+      "current_tick": "1146034",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -38465,14 +38465,14 @@
         {
           "token": {
             "denom": "ibc/F3166F4D31D6BA1EC6C9F5536F5DDDD4CC93DBA430F7419E7CDC41C497944A65",
-            "amount": "689787603611"
+            "amount": "689784395156"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "89825141943"
+            "amount": "89825560592"
           },
           "weight": "536870912000000"
         }
@@ -38488,8 +38488,8 @@
       "current_tick_liquidity": "382033904746837874.083532566915478793",
       "token0": "ibc/831F0B1BBB1D08A2B75311892876D71565478C532967545476DF4C2D7492E48C",
       "token1": "uosmo",
-      "current_sqrt_price": "0.000001525207154365224789386527107094",
-      "current_tick": "-106673744",
+      "current_sqrt_price": "0.000001521795081135109258725665773347",
+      "current_tick": "-106684140",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -38501,15 +38501,15 @@
       "incentives_address": "osmo1y25nwfch5rp3fyawkqjvvfpc8qe3tjywjs2hv6xfdg292umpl50qfk8aj7",
       "spread_rewards_address": "osmo1u9ktz95vadadeve0l6qcfyj47mtd32v93xnz3ru4j33z326rjlhs4skgac",
       "id": "1246",
-      "current_tick_liquidity": "98573066120959854.056690666422105073",
+      "current_tick_liquidity": "98581371649171284.987737009959436866",
       "token0": "ibc/831F0B1BBB1D08A2B75311892876D71565478C532967545476DF4C2D7492E48C",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.000001439579286196194256826146450259",
-      "current_tick": "-106927612",
+      "current_sqrt_price": "0.000001440741149632321074864341547433",
+      "current_tick": "-106924265",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:37:22.961985643Z"
+      "last_liquidity_update": "2024-04-18T00:40:12.917130491Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -38517,15 +38517,15 @@
       "incentives_address": "osmo175dck737jmvr9mw34pqs7y5fv0umnak3vrsj3mjxg75cnkmyulfs0c3sxr",
       "spread_rewards_address": "osmo1sztcvwfec7lk766vn4wxny2s5rzh9ggglmhaaycrgqxmvxduuwvsg0rvcx",
       "id": "1247",
-      "current_tick_liquidity": "2555762122801.572133490172273899",
+      "current_tick_liquidity": "7982250657309.906018012828067609",
       "token0": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "3.123903398787832576418325083040120773",
-      "current_tick": "8758772",
+      "current_sqrt_price": "3.123084356543238909918835258632478895",
+      "current_tick": "8753655",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:39:01.302538431Z"
+      "last_liquidity_update": "2024-04-18T00:45:35.563467040Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -38533,15 +38533,15 @@
       "incentives_address": "osmo1y3excgs02765nzvxv5lqlvullva2w2uxapq5nyjnzg30yglge03sem7azc",
       "spread_rewards_address": "osmo1uv76jtxlyvdkg5hqdkzlwlvsknzhfw5xazqc549g8g60kmtkxr3sfgd5lx",
       "id": "1248",
-      "current_tick_liquidity": "4181484866829.827923661524687487",
+      "current_tick_liquidity": "4181417289887.628038959448430100",
       "token0": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
       "token1": "uosmo",
-      "current_sqrt_price": "3.302057963744080143502614248734192822",
-      "current_tick": "9090358",
+      "current_sqrt_price": "3.300727719975347365411560492851285309",
+      "current_tick": "9089480",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:25.057597039Z"
+      "last_liquidity_update": "2024-04-18T00:46:48.735787678Z"
     },
     {
       "@type": "/osmosis.gamm.v1beta1.Pool",
@@ -38613,15 +38613,15 @@
       "incentives_address": "osmo1vhw7cjhv5w4ckkr49d8f4tg99m2ar5x377ku9540mfnrdpptw00qe9rd5g",
       "spread_rewards_address": "osmo15zn4jn8dwyj709jvzuev74m55cf9w89wcmqemp34kr82yn2mr0kqtnhxqw",
       "id": "1251",
-      "current_tick_liquidity": "56724351221606.468886055664722535",
+      "current_tick_liquidity": "12291139907143.814260389659507625",
       "token0": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "2.812100183857219880961329102673020043",
-      "current_tick": "6907907",
+      "current_sqrt_price": "2.817669135510489448468826465620244542",
+      "current_tick": "6939259",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:16.032123875Z"
+      "last_liquidity_update": "2024-04-18T00:46:23.416014645Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -38632,8 +38632,8 @@
       "current_tick_liquidity": "1765318493375.531536287015138085",
       "token0": "ibc/D176154B0C63D1F9C6DCFB4F70349EBF2E2B5A87A05902F57A6AE92B863E9AEC",
       "token1": "uosmo",
-      "current_sqrt_price": "1.106972766335096280716096552752411711",
-      "current_tick": "225388",
+      "current_sqrt_price": "1.107004466453692441372621835757553890",
+      "current_tick": "225458",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
@@ -38869,15 +38869,15 @@
       "incentives_address": "osmo1glw62sxnarqlte4g4kxh7z5pje0x0llfwe53jfec7uydc9xygv7srmknr9",
       "spread_rewards_address": "osmo15qle4t0azwg8etdn48n8lrvvwwut2wfe6lmkn5hk2faycs5gyalsf7eqgv",
       "id": "1263",
-      "current_tick_liquidity": "10617334506630.018212483399238016",
+      "current_tick_liquidity": "2609721631221797.834410464869253642",
       "token0": "uosmo",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.945236976067418564615850514843512800",
-      "current_tick": "-1065271",
+      "current_sqrt_price": "0.946984035955315130584230144365070125",
+      "current_tick": "-1032213",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:39:09.101403338Z"
+      "last_liquidity_update": "2024-04-18T00:46:35.786975139Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -38885,15 +38885,15 @@
       "incentives_address": "osmo1hqjfk0hjyhzlnf6tzgqgh7gj42x77hgstqy44k7zvgpremyrlags4j9hfk",
       "spread_rewards_address": "osmo165qlqpwpwr7pzwxe0yywk8ud7zf05yj6taw2k76wzdpjeqrkdzfsz2muhz",
       "id": "1264",
-      "current_tick_liquidity": "104761240886431665.985945805413943156",
+      "current_tick_liquidity": "1051941221105657529.762731096381044322",
       "token0": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.000054316573908978785923343549238301",
-      "current_tick": "-79049710",
+      "current_sqrt_price": "0.000054453986965789103474739647687097",
+      "current_tick": "-79034764",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:52.355660261Z"
+      "last_liquidity_update": "2024-04-18T00:46:55.525948893Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -38901,15 +38901,15 @@
       "incentives_address": "osmo1nldrmuq5qa9k49m0dmm4k3399k778jvh962qgg7qqamsdt05qmussf888k",
       "spread_rewards_address": "osmo1s0qpx3kk2vyrw368m727rgdkzvq3u2vhhlaz82aehlu5wtc3d2tqc6gzlc",
       "id": "1265",
-      "current_tick_liquidity": "23855989055190.131921401124691168",
+      "current_tick_liquidity": "1295113683370.913206635259222811",
       "token0": "uosmo",
       "token1": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-      "current_sqrt_price": "0.336469179925047864154715065239347082",
-      "current_tick": "-8867885",
+      "current_sqrt_price": "0.336211675331366568261646396813763993",
+      "current_tick": "-8869618",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:39:09.101403338Z"
+      "last_liquidity_update": "2024-04-18T00:46:58.517688099Z"
     },
     {
       "@type": "/osmosis.gamm.v1beta1.Pool",
@@ -38952,8 +38952,8 @@
       "current_tick_liquidity": "107368470780.468427282472752824",
       "token0": "factory/osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw/squosmo",
       "token1": "uosmo",
-      "current_sqrt_price": "0.003724100623223967073335919547364862",
-      "current_tick": "-44613108",
+      "current_sqrt_price": "0.003730818308301877365736141126816697",
+      "current_tick": "-44608100",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -39169,15 +39169,15 @@
       "incentives_address": "osmo1qsd8fgsgpz3y3lqdx4llpdg4ur2646khy536uj4489zx95uvxccs0c3p20",
       "spread_rewards_address": "osmo1gulf22thunjxh3rlf5kumrpyxmms07numcx2ygj8pd3j80mszlts54n6tz",
       "id": "1277",
-      "current_tick_liquidity": "2273283524.874734593080048307",
+      "current_tick_liquidity": "3012042853.812723925751542782",
       "token0": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "24.636352822901721918112129730640820577",
-      "current_tick": "23069498",
+      "current_sqrt_price": "24.695650956008717084509917106844637223",
+      "current_tick": "23098751",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:36:51.415154817Z"
+      "last_liquidity_update": "2024-04-18T00:39:12.165069921Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -39185,15 +39185,15 @@
       "incentives_address": "osmo1vvlfgza07am2494cqfgca0fqcg8h4f6a6qj5cy05ynd9rh0kpx8qyjext2",
       "spread_rewards_address": "osmo160qdm572d08zu87mjeh4y3g860swsmuln09vw4p2t2y8kphqd0yshrujgw",
       "id": "1278",
-      "current_tick_liquidity": "15002005069032276.458097854284186959",
+      "current_tick_liquidity": "1266472500468652.288578695915733807",
       "token0": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.000054337241252475972650204309241438",
-      "current_tick": "-79047465",
+      "current_sqrt_price": "0.000054471570718638335069964448288622",
+      "current_tick": "-79032848",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:37:19.476314266Z"
+      "last_liquidity_update": "2024-04-18T00:46:35.786975139Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -39204,8 +39204,8 @@
       "current_tick_liquidity": "1022999660710076.764606367513299559",
       "token0": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
       "token1": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-      "current_sqrt_price": "0.000054355541885152159218623477057839",
-      "current_tick": "-79045476",
+      "current_sqrt_price": "0.000054376481489484885434343910803969",
+      "current_tick": "-79043199",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -39233,15 +39233,15 @@
       "incentives_address": "osmo1g3y6pz2rgqv20jhwhsxk0qmvwg6ucwgchzyvmyn6zwkup64uj73spw03m8",
       "spread_rewards_address": "osmo1hxemvvslfnl7j0727r953hmhhu66s3cks2jvyc2ckg9fjehnv5kswtl44c",
       "id": "1281",
-      "current_tick_liquidity": "2393298653310671123.182699550481985188",
+      "current_tick_liquidity": "7906962167084430656.436713592207691543",
       "token0": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
       "token1": "uosmo",
-      "current_sqrt_price": "0.000057518420247843954637478625436374",
-      "current_tick": "-78691632",
+      "current_sqrt_price": "0.000057517838990619601813448827456817",
+      "current_tick": "-78691699",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:39:01.302538431Z"
+      "last_liquidity_update": "2024-04-18T00:42:38.047132282Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -39249,15 +39249,15 @@
       "incentives_address": "osmo1ud56842l2t7scmdt8wttwect9us25g32h0hy4895emxjxjf8dxzqg227pl",
       "spread_rewards_address": "osmo1enrsppqmv5e3cp4m0rjmy2hkqd8xl940vptkzund25vh44fvjdes0x0v5d",
       "id": "1282",
-      "current_tick_liquidity": "13720223462352.537351697422386954",
+      "current_tick_liquidity": "170816012623.921045468477983746",
       "token0": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "2.810769258708308902838672679247975432",
-      "current_tick": "6900423",
+      "current_sqrt_price": "2.818974291672016434357607837419992119",
+      "current_tick": "6946616",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:58.220968767Z"
+      "last_liquidity_update": "2024-04-18T00:47:01.559840530Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -39265,15 +39265,15 @@
       "incentives_address": "osmo1j5m4gk486hp9zpvqygtquehvptmvxe4h2grant6ud262wjd5wqqq2kaqru",
       "spread_rewards_address": "osmo1q9n7uw9tgyu6wdkecxcm9cx6qp9ygj46u6umnacrrthmp6v9te3sj99tm4",
       "id": "1283",
-      "current_tick_liquidity": "71976952555439.208407953960570277",
+      "current_tick_liquidity": "88294197593233.645285402026756304",
       "token0": "ibc/C140AFD542AE77BD7DCC83F13FDD8C5E5BB8C4929785E6EC2F4C636F98F17901",
       "token1": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-      "current_sqrt_price": "1.150770554233448136000154052786865839",
-      "current_tick": "324272",
+      "current_sqrt_price": "1.150742346176780402712327775602462116",
+      "current_tick": "324207",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:43.614459664Z"
+      "last_liquidity_update": "2024-04-18T00:45:09.900135416Z"
     },
     {
       "@type": "/osmosis.gamm.poolmodels.stableswap.v1beta1.Pool",
@@ -39354,14 +39354,14 @@
         {
           "token": {
             "denom": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-            "amount": "968049938"
+            "amount": "972049938"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/67C89B8B0A70C08F093C909A4DD996DD10E0494C87E28FD9A551697BF173D4CA",
-            "amount": "33438703734949"
+            "amount": "33305214513742"
           },
           "weight": "536870912000000"
         }
@@ -39662,8 +39662,8 @@
       "current_tick_liquidity": "25726184571668389792534.707155109113444289",
       "token0": "ibc/23AB778D694C1ECFC59B91D8C399C115CC53B0BD1C61020D8E19519F002BDD85",
       "token1": "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7",
-      "current_sqrt_price": "0.382918847574990199853449096053798126",
-      "current_tick": "-8533732",
+      "current_sqrt_price": "0.382862247287319751161738945656088835",
+      "current_tick": "-8534165",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.005000000000000000",
@@ -39726,8 +39726,8 @@
       "current_tick_liquidity": "183696609009.198998631916105666",
       "token0": "ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "1.925426866935764983354004940395678969",
-      "current_tick": "2707268",
+      "current_sqrt_price": "1.925415978933426678732894724340517142",
+      "current_tick": "2707226",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -39815,14 +39815,14 @@
         {
           "token": {
             "denom": "ibc/75345531D87BD90BF108BE7240BD721CB2CB0A1F16D4EBA71B09EC3C43E15C8F",
-            "amount": "19976186323623"
+            "amount": "19956733850533"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/FE2CD1E6828EC0FAB8AF39BAC45BC25B965BA67CCBC50C13A14BD610B0D1E2C4",
-            "amount": "496394518738"
+            "amount": "496880801925"
           },
           "weight": "536870912000000"
         }
@@ -39975,14 +39975,14 @@
         {
           "token": {
             "denom": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
-            "amount": "15655741862"
+            "amount": "15637635989"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/E7905742CE2EA4EA5D592527DC89220C59B617DE803939FE7293805A64B484D7",
-            "amount": "409877989602"
+            "amount": "410353513602"
           },
           "weight": "536870912000000"
         }
@@ -40107,15 +40107,15 @@
       "incentives_address": "osmo1qemlvp96le8aenlvy7v4rq87yhjmq7qp4ds6e08876lykh8mlx7qsewevp",
       "spread_rewards_address": "osmo108r2kyzrghp0c7qukk0jqul3umfwgfrt35qcpn8sm9ma8dw3cgssd46hph",
       "id": "1318",
-      "current_tick_liquidity": "316859036597.782779729200008686",
+      "current_tick_liquidity": "316373893933.304384783287747773",
       "token0": "ibc/EDD6F0D66BCD49C1084FB2C35353B4ACD7B9191117CE63671B61320548F7C89D",
       "token1": "uosmo",
-      "current_sqrt_price": "0.162268787595148249684960645244395421",
-      "current_tick": "-16366885",
+      "current_sqrt_price": "0.162090777030845070424153278983437968",
+      "current_tick": "-16372659",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.001000000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:52.355660261Z"
+      "last_liquidity_update": "2024-04-18T00:40:12.917130491Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -40123,15 +40123,15 @@
       "incentives_address": "osmo13ywhmydm7qwyg8n60afqhzl4ahd65egn00266qqae2v3es4cmepqe07ztk",
       "spread_rewards_address": "osmo1qvmwex60ahcsklntxy9vr38zq54a8gup7psvnfgttfkqv6xmyssq4xglje",
       "id": "1319",
-      "current_tick_liquidity": "187283695838271588.684155475951775637",
+      "current_tick_liquidity": "187342106481734383.158149585668871864",
       "token0": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.000005040646718414739351487907507058",
-      "current_tick": "-97459189",
+      "current_sqrt_price": "0.000005043480494704365570697906145970",
+      "current_tick": "-97456331",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:10.089852544Z"
+      "last_liquidity_update": "2024-04-18T00:42:19.361328147Z"
     },
     {
       "@type": "/osmosis.gamm.v1beta1.Pool",
@@ -40171,15 +40171,15 @@
       "incentives_address": "osmo1mv42gnhqn4z8gc3m37zwt9pa5ctzerk82cwzml6c5xnna5rr4ulq327kgm",
       "spread_rewards_address": "osmo1zxvv43nxc7383pz9xc4h2hvmvzvrve0ladzt0psk495ld65qznsqmd7ldx",
       "id": "1321",
-      "current_tick_liquidity": "983756811239.007592200871251966",
+      "current_tick_liquidity": "96199610415.861515458618348746",
       "token0": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "3.122051769720425308608244869756184076",
-      "current_tick": "8747207",
+      "current_sqrt_price": "3.124144964835335934580322327145297302",
+      "current_tick": "8760281",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:35:34.001603471Z"
+      "last_liquidity_update": "2024-04-18T00:45:42.810497357Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -40235,15 +40235,15 @@
       "incentives_address": "osmo17jqs0pk0lug2dceva0kfs5je9hhlxuy0jdchwy3ewygf29hheuvq3xjlzf",
       "spread_rewards_address": "osmo12en4cjlzhl0l7kkam6mdqcm6hstrlpal9v4am0ks8muegrskepyszwnhsr",
       "id": "1325",
-      "current_tick_liquidity": "546264485155.094478986339581192",
+      "current_tick_liquidity": "9768203118558.340894024521249500",
       "token0": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
       "token1": "uosmo",
-      "current_sqrt_price": "0.317004023693032645128721490290517001",
-      "current_tick": "-8995085",
+      "current_sqrt_price": "0.317315193020650667407484095350309438",
+      "current_tick": "-8993111",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:26:59.635773660Z"
+      "last_liquidity_update": "2024-04-18T00:45:49.001766590Z"
     },
     {
       "@type": "/osmosis.gamm.v1beta1.Pool",
@@ -40327,14 +40327,14 @@
         {
           "token": {
             "denom": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-            "amount": "5025402558"
+            "amount": "5022862694"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/FE2CD1E6828EC0FAB8AF39BAC45BC25B965BA67CCBC50C13A14BD610B0D1E2C4",
-            "amount": "204542560155"
+            "amount": "204646509037"
           },
           "weight": "536870912000000"
         }
@@ -40494,7 +40494,7 @@
       "current_tick_liquidity": "8669805250414.083189507761084554",
       "token0": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
       "token1": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
-      "current_sqrt_price": "1.007693354257038073649800526007238143",
+      "current_sqrt_price": "1.007693365765951724880242216439567802",
       "current_tick": "15445",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
@@ -40523,15 +40523,15 @@
       "incentives_address": "osmo1n2sajar22g2w3xds9226pd9qsm7wm7jernj07r89xyuf6r06qeps3396gq",
       "spread_rewards_address": "osmo1ta4m4yla269dpfcv86n4gg4zcslp49l4wjgnz5x6clqr2ktyydesk6anzf",
       "id": "1337",
-      "current_tick_liquidity": "172430641550.631982747373971381",
+      "current_tick_liquidity": "102147841023651.304860195113212459",
       "token0": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.299769735683260680365079417294774510",
-      "current_tick": "-10013811",
+      "current_sqrt_price": "0.300477960243643253577554677097573693",
+      "current_tick": "-9971300",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:05:34.351635731Z"
+      "last_liquidity_update": "2024-04-18T00:46:00.625194959Z"
     },
     {
       "@type": "/osmosis.gamm.v1beta1.Pool",
@@ -40583,14 +40583,14 @@
         {
           "token": {
             "denom": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
-            "amount": "3858837062"
+            "amount": "3855264044"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-            "amount": "38215941293"
+            "amount": "38251394881"
           },
           "weight": "536870912000000"
         }
@@ -40830,12 +40830,12 @@
       "current_tick_liquidity": "39219463257.839119850431213278",
       "token0": "uosmo",
       "token1": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
-      "current_sqrt_price": "0.303059588752895063008569860471946847",
-      "current_tick": "-9815489",
+      "current_sqrt_price": "0.303183710727705662073657869022099125",
+      "current_tick": "-9807964",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:32:36.836621910Z"
+      "last_liquidity_update": "2024-04-18T00:41:40.822669490Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -40894,8 +40894,8 @@
       "current_tick_liquidity": "4256882169250794.694608705881725649",
       "token0": "ibc/831F0B1BBB1D08A2B75311892876D71565478C532967545476DF4C2D7492E48C",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.000001446852814223186330612429285303",
-      "current_tick": "-106906617",
+      "current_sqrt_price": "0.000001446770484347571931654592763176",
+      "current_tick": "-106906856",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -41770,8 +41770,8 @@
       "current_tick_liquidity": "1513725450047.013006932124048710",
       "token0": "ibc/183C0BB962D2F57C957E0B134CFA0AC9D6F755C02DE9DC2A59089BA23009DEC3",
       "token1": "uosmo",
-      "current_sqrt_price": "0.100165336686850119840148447444925533",
-      "current_tick": "-17996691",
+      "current_sqrt_price": "0.100061389077847078881713844966549362",
+      "current_tick": "-17998772",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.001000000000000000",
@@ -41866,8 +41866,8 @@
       "current_tick_liquidity": "556161029550.767929449066428710",
       "token0": "ibc/126DA09104B71B164883842B769C0E9EC1486C0887D27A9999E395C2C8FB5682",
       "token1": "uosmo",
-      "current_sqrt_price": "0.866269201585960108454216762603964176",
-      "current_tick": "-2495777",
+      "current_sqrt_price": "0.866772633008777511832489729154345319",
+      "current_tick": "-2487053",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
@@ -42135,8 +42135,8 @@
       "current_tick_liquidity": "41554048065455.621215880276338666",
       "token0": "ibc/5DD1F95ED336014D00CE2520977EC71566D282F9749170ADC83A392E0EA7426A",
       "token1": "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4",
-      "current_sqrt_price": "1.205998742915579260124456995418670452",
-      "current_tick": "454432",
+      "current_sqrt_price": "1.206075964971558231953009749586841831",
+      "current_tick": "454619",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
@@ -42164,15 +42164,15 @@
       "incentives_address": "osmo1a6n7060u8rqm4yy4y9trez03wkzfxn2qkh94823had094dcgh3vssvlsat",
       "spread_rewards_address": "osmo1ll95eu8kemuah5h3ulke4vcm333erd6vvg3fjxnrx8ec437n0ceq9wz3ny",
       "id": "1399",
-      "current_tick_liquidity": "10016312894052.461963867575077825",
+      "current_tick_liquidity": "1860529407282.001178811863652401",
       "token0": "uosmo",
       "token1": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-      "current_sqrt_price": "0.336451399211361648564926027003594067",
-      "current_tick": "-8868005",
+      "current_sqrt_price": "0.336087550928125158640885847342595623",
+      "current_tick": "-8870452",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000100000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:28.201832310Z"
+      "last_liquidity_update": "2024-04-18T00:46:58.517688099Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -42180,15 +42180,15 @@
       "incentives_address": "osmo1yfs3mhtv628v2npp928qze5x2vm8x0l67smhcpfh9aycysaj27qsq8t58n",
       "spread_rewards_address": "osmo1k40evxq22fafj74wpqquyvrz2wmul7j530k39s9wnp0ehspdk4rsckns2p",
       "id": "1400",
-      "current_tick_liquidity": "49377884933533.551425852659317316",
+      "current_tick_liquidity": "1472277876802.038894098598769599",
       "token0": "uosmo",
       "token1": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-      "current_sqrt_price": "0.336466639958826590270440619516869805",
-      "current_tick": "-8867903",
+      "current_sqrt_price": "0.336189585064105451202617971661741682",
+      "current_tick": "-8869766",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000000000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:55.287123405Z"
+      "last_liquidity_update": "2024-04-18T00:46:58.517688099Z"
     },
     {
       "@type": "/osmosis.gamm.poolmodels.stableswap.v1beta1.Pool",
@@ -42894,15 +42894,15 @@
       "incentives_address": "osmo17kjs2lrgzs9lmkc70qt67jd6wkn25qlmefjxhqmmum534g9xew4qv8cvtq",
       "spread_rewards_address": "osmo19dr8l30007hwkecmec9mjfrldy9kh3nz2n0zs7duqku95n2ftnxqz2gq6m",
       "id": "1428",
-      "current_tick_liquidity": "16817936417492.547568554957306486",
+      "current_tick_liquidity": "39341286385735.401305482508390779",
       "token0": "ibc/698350B8A61D575025F3ED13E9AC9C0F45C89DEFE92F76D5838F1D3C1A7FF7C9",
       "token1": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
-      "current_sqrt_price": "0.997850916865682558347147160629914167",
-      "current_tick": "-42936",
+      "current_sqrt_price": "0.998247915840036249716739757380160919",
+      "current_tick": "-35011",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:34.373371472Z"
+      "last_liquidity_update": "2024-04-18T00:46:15.968457410Z"
     },
     {
       "@type": "/osmosis.gamm.v1beta1.Pool",
@@ -42977,8 +42977,8 @@
       "current_tick_liquidity": "44498389.490338764848785545",
       "token0": "uosmo",
       "token1": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
-      "current_sqrt_price": "0.038364688193877885401073221252499521",
-      "current_tick": "-26528151",
+      "current_sqrt_price": "0.038344592905062078895049748872508981",
+      "current_tick": "-26529693",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -42993,8 +42993,8 @@
       "current_tick_liquidity": "18402324.144889954931832194",
       "token0": "uosmo",
       "token1": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
-      "current_sqrt_price": "0.038452826453060195438098635633505688",
-      "current_tick": "-26521381",
+      "current_sqrt_price": "0.038303349322791429563718572878231391",
+      "current_tick": "-26532854",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
@@ -43006,15 +43006,15 @@
       "incentives_address": "osmo1jx9rldvj6xdd8wurp0x94w2wswplzxgjwp0yquk72k2vu04gx3rqr0fyn3",
       "spread_rewards_address": "osmo12hlk07xr7f90uxfd9jttauleancd9mr7d3pk064vajfytwtdrx4qs7kvmc",
       "id": "1434",
-      "current_tick_liquidity": "1905916661111.570671768240979013",
+      "current_tick_liquidity": "555129783065.899079153379517304",
       "token0": "uosmo",
       "token1": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
-      "current_sqrt_price": "0.038312952770666363708194246448158340",
-      "current_tick": "-26532118",
+      "current_sqrt_price": "0.038299607255926742330974137857064110",
+      "current_tick": "-26533141",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000100000000000000",
-      "last_liquidity_update": "2024-04-18T00:39:01.302538431Z"
+      "last_liquidity_update": "2024-04-18T00:46:55.525948893Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -43025,8 +43025,8 @@
       "current_tick_liquidity": "321620271408.156036227100262453",
       "token0": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "24.716012190259643503785729413655596930",
-      "current_tick": "23108812",
+      "current_sqrt_price": "24.716176538233216725426800655807802098",
+      "current_tick": "23108893",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -43038,15 +43038,15 @@
       "incentives_address": "osmo14rl8r9078tmzjtyaax5c3vy0fal5faarpc2wk6ef9c8qtvt30xyqd3ve2w",
       "spread_rewards_address": "osmo1q8f0c6g7262l8tn3wt94ns5n80ckcufyllpzhyzsazhs4zw8c4kshrsx4r",
       "id": "1436",
-      "current_tick_liquidity": "866157179474.900612469783922012",
+      "current_tick_liquidity": "9769561962391.650057368297662840",
       "token0": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "24.688064254181108299426045157145766318",
-      "current_tick": "23095005",
+      "current_sqrt_price": "24.737152392966087394260186962559598371",
+      "current_tick": "23119267",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:43.614459664Z"
+      "last_liquidity_update": "2024-04-18T00:45:06.853111173Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -43054,15 +43054,15 @@
       "incentives_address": "osmo12tcdd6ptl049unknq5mw9pcmgj76alnafunks7kx960xstadss8shdfe9a",
       "spread_rewards_address": "osmo1c87n444c5mxfqe60hhjkjf5ez7yj29xv7fu0fvu982qjjngt5d9qzpj80q",
       "id": "1437",
-      "current_tick_liquidity": "1881685419.854547509215084271",
+      "current_tick_liquidity": "140536588683.635476446500485650",
       "token0": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "24.666331721227481147213787046227410725",
-      "current_tick": "23084279",
+      "current_sqrt_price": "24.743912049506285261072461376657294394",
+      "current_tick": "23122611",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000100000000000000",
-      "last_liquidity_update": "2024-04-18T00:39:01.302538431Z"
+      "last_liquidity_update": "2024-04-18T00:45:17.202446606Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -43105,8 +43105,8 @@
       "current_tick_liquidity": "556769684387936.245838589659967460",
       "token0": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
       "token1": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
-      "current_sqrt_price": "0.000002203697212718481011857449498748",
-      "current_tick": "-104143719",
+      "current_sqrt_price": "0.000002203398311650229121792786137852",
+      "current_tick": "-104145036",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -43118,15 +43118,15 @@
       "incentives_address": "osmo15gcyl8up0p2uzn2yggrtu4p7fup2fyzdgj4pyrre9wrzpg58ft8qv7c09v",
       "spread_rewards_address": "osmo1jr4drq5xda5ynnvusmnv75hmqdravg653ukwcmeta2f2dz07sl7q58na2a",
       "id": "1441",
-      "current_tick_liquidity": "609991311883352.334324045173227738",
+      "current_tick_liquidity": "18158070482369427.841534214845273416",
       "token0": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
       "token1": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
-      "current_sqrt_price": "0.000002200239120106415439151577602228",
-      "current_tick": "-104158948",
+      "current_sqrt_price": "0.000002200190262630052169816970566932",
+      "current_tick": "-104159163",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:39:01.302538431Z"
+      "last_liquidity_update": "2024-04-18T00:46:23.416014645Z"
     },
     {
       "@type": "/osmosis.gamm.v1beta1.Pool",
@@ -43317,8 +43317,8 @@
       "current_tick_liquidity": "1912624192010399198.231363388342203951",
       "token0": "ibc/9A76CDF0CBCEF37923F32518FA15E5DC92B9F56128292BC4D63C4AEA76CBB110",
       "token1": "uosmo",
-      "current_sqrt_price": "0.000001990714972231455155504948280266",
-      "current_tick": "-105037054",
+      "current_sqrt_price": "0.000001993873117152345528546952357093",
+      "current_tick": "-105024470",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -43333,8 +43333,8 @@
       "current_tick_liquidity": "130129317138155907.024298965414398521",
       "token0": "ibc/9A76CDF0CBCEF37923F32518FA15E5DC92B9F56128292BC4D63C4AEA76CBB110",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.000001884591362126723348277828493889",
-      "current_tick": "-105448316",
+      "current_sqrt_price": "0.000001889232985220654843756229885997",
+      "current_tick": "-105430799",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -43684,15 +43684,15 @@
       "incentives_address": "osmo1wsfhgwgvpylkcde80vzyry3dt2vhkah83ctqc23r8780vujsxvdq952del",
       "spread_rewards_address": "osmo1zdze9lvalg9x6zj9u4vzrsyjljnmgp46kwcelzz4eqddsqk8uecsrxwmcv",
       "id": "1464",
-      "current_tick_liquidity": "60682552002146.968413421044204023",
+      "current_tick_liquidity": "388943776443885.672415169264894336",
       "token0": "uosmo",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.944820965065747303548254202928526648",
-      "current_tick": "-1073134",
+      "current_sqrt_price": "0.947264130382733615674402183885827606",
+      "current_tick": "-1026907",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000100000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:34.373371472Z"
+      "last_liquidity_update": "2024-04-18T00:46:45.479319248Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -43703,8 +43703,8 @@
       "current_tick_liquidity": "6413833254.478278931185820205",
       "token0": "uosmo",
       "token1": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-      "current_sqrt_price": "0.946199412516675291230937543306490699",
-      "current_tick": "-1047067",
+      "current_sqrt_price": "0.946902835822504122098937060906762645",
+      "current_tick": "-1033751",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000100000000000000",
@@ -43988,15 +43988,15 @@
       "incentives_address": "osmo17p45glv8dr0upmqaalsrttd84l8w980rvlvkdv80q98wqtjm3y3su9zt49",
       "spread_rewards_address": "osmo1mzyrrtmjy8mttalx8mdu6l4cufgt3xcd43g4d37xcmrl7xjjdn9sc0yts8",
       "id": "1475",
-      "current_tick_liquidity": "5002973138154.928465236942438334",
+      "current_tick_liquidity": "5003527766375.244693896169038751",
       "token0": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
       "token1": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
-      "current_sqrt_price": "1.008410460205201968446463942979428955",
-      "current_tick": "16891",
+      "current_sqrt_price": "1.008407446751014951338774857391771221",
+      "current_tick": "16885",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:18:20.747403460Z"
+      "last_liquidity_update": "2024-04-18T00:45:29.153679698Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -44004,15 +44004,15 @@
       "incentives_address": "osmo1dswvhaxvte7crfvey8nzv547t9pmgvcrs64xqlzwj5v4nf83nrkqw8dacv",
       "spread_rewards_address": "osmo1q0hc25kehgqxlcy8f3dgeq0hflffm03ghwatw8dghrr64qruskjqgjfrpu",
       "id": "1476",
-      "current_tick_liquidity": "3581243673482.982129375089465085",
+      "current_tick_liquidity": "21702209203621.034293383143807882",
       "token0": "ibc/698350B8A61D575025F3ED13E9AC9C0F45C89DEFE92F76D5838F1D3C1A7FF7C9",
       "token1": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
-      "current_sqrt_price": "0.998448690473265593889371237164574472",
-      "current_tick": "-31003",
+      "current_sqrt_price": "0.998898780203467272607705777470154657",
+      "current_tick": "-22013",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:52.355660261Z"
+      "last_liquidity_update": "2024-04-18T00:46:41.930296982Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -44020,15 +44020,15 @@
       "incentives_address": "osmo13555v085c3yjrectkzqh7k4yfm429td06v27h35yk9an4pwrdmyq9zze8u",
       "spread_rewards_address": "osmo1zxjwg74hvgv9eczu6m8sfw3tcg6tfdseh8qr2lfa7lupf478xqkqc0erz3",
       "id": "1477",
-      "current_tick_liquidity": "579474604907573766.565811659879933982",
+      "current_tick_liquidity": "923688016073496949.601378139890328595",
       "token0": "uosmo",
       "token1": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
-      "current_sqrt_price": "17393.695736571905565689064265649097846055",
-      "current_tick": "74025406",
+      "current_sqrt_price": "17390.228925653380260921902856796284442093",
+      "current_tick": "74024200",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000100000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:34.373371472Z"
+      "last_liquidity_update": "2024-04-18T00:45:42.810497357Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -44119,7 +44119,7 @@
       "current_tick_liquidity": "1833525558908.999020596882970482",
       "token0": "ibc/1DCC8A6CB5689018431323953344A9F6CC4D0BFB261E88C9F7777372C10CD076",
       "token1": "uosmo",
-      "current_sqrt_price": "0.284584726073518683736421785184695494",
+      "current_sqrt_price": "0.284584726187823062522778158207376277",
       "current_tick": "-10901154",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
@@ -44568,14 +44568,14 @@
         {
           "token": {
             "denom": "ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4",
-            "amount": "51664548725"
+            "amount": "51942254528"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/208B2F137CDE510B44C41947C045CFDC27F996A9D990EA64460BDD5B3DBEB2ED",
-            "amount": "5406983303690"
+            "amount": "5378132958917"
           },
           "weight": "536870912000000"
         }
@@ -44979,8 +44979,8 @@
       "current_tick_liquidity": "70947392718923677.404401164471070339",
       "token0": "ibc/5D1F516200EE8C6B2354102143B78A2DEDA25EDE771AC0F8DC3C1837C8FD4447",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.000001398619204480681061386265926947",
-      "current_tick": "-107043865",
+      "current_sqrt_price": "0.000001399613097201494068722851984437",
+      "current_tick": "-107041084",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -45177,14 +45177,14 @@
         {
           "token": {
             "denom": "ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4",
-            "amount": "238255042"
+            "amount": "237559368"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/4F3B0EC2FE2D370D10C3671A1B7B06D2A964C721470C305CBB846ED60E6CAA20",
-            "amount": "135768316427"
+            "amount": "136167901457"
           },
           "weight": "536870912000000"
         }
@@ -45337,14 +45337,14 @@
         {
           "token": {
             "denom": "ibc/4F3B0EC2FE2D370D10C3671A1B7B06D2A964C721470C305CBB846ED60E6CAA20",
-            "amount": "116150002207"
+            "amount": "115750017191"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
-            "amount": "28765101449001118100"
+            "amount": "28865001449001118100"
           },
           "weight": "536870912000000"
         }
@@ -46596,20 +46596,20 @@
       "future_pool_governor": "24h",
       "total_shares": {
         "denom": "gamm/pool/1574",
-        "amount": "1152040649621365143496"
+        "amount": "1162710617981558626200"
       },
       "pool_assets": [
         {
           "token": {
             "denom": "ibc/072E5B3D6F278B3E6A9C51D7EAD1A737148609512C5EBE8CBCB5663264A0DDB7",
-            "amount": "5415277262997"
+            "amount": "5465432469827"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "7863841996"
+            "amount": "7936675316"
           },
           "weight": "536870912000000"
         }
@@ -46805,14 +46805,14 @@
         {
           "token": {
             "denom": "ibc/9A76CDF0CBCEF37923F32518FA15E5DC92B9F56128292BC4D63C4AEA76CBB110",
-            "amount": "16334236712673506037383"
+            "amount": "16305424810220614583701"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
-            "amount": "5955758836"
+            "amount": "5966303840"
           },
           "weight": "536870912000000"
         }
@@ -47027,8 +47027,8 @@
       "current_tick_liquidity": "2760259004.530833297285334152",
       "token0": "ibc/C140AFD542AE77BD7DCC83F13FDD8C5E5BB8C4929785E6EC2F4C636F98F17901",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "3.237226554212622850709893488821661448",
-      "current_tick": "9047963",
+      "current_sqrt_price": "3.239929984592616614924567368855680708",
+      "current_tick": "9049714",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
@@ -47306,8 +47306,8 @@
       "current_tick_liquidity": "72201847850.940464433220958651",
       "token0": "ibc/4017C65CEA338196ECCEC3FE3FE8258F23D1DE88F1D95750CC912C7A1C1016FF",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.573571293801353821039379545629756011",
-      "current_tick": "-6710160",
+      "current_sqrt_price": "0.573394179752228951223252675511126917",
+      "current_tick": "-6712192",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -47395,14 +47395,14 @@
         {
           "token": {
             "denom": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
-            "amount": "70670800"
+            "amount": "70640727"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/69110FF673D70B39904FF056CFDFD58A90BEC3194303F45C32CB91B8B0A738EA",
-            "amount": "889516549539337302400253"
+            "amount": "889895426712838292435530"
           },
           "weight": "536870912000000"
         }
@@ -47505,14 +47505,14 @@
         {
           "token": {
             "denom": "ibc/69110FF673D70B39904FF056CFDFD58A90BEC3194303F45C32CB91B8B0A738EA",
-            "amount": "193983205935378435258352"
+            "amount": "194003371223158197179923"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/A8CA5EE328FA10C9519DF6057DA1F69682D28F7D0F5CCC7ECB72E3DCA2D157A4",
-            "amount": "4375321592"
+            "amount": "4374867036"
           },
           "weight": "536870912000000"
         }
@@ -47686,8 +47686,8 @@
       "current_tick_liquidity": "63733884105.989822784210621054",
       "token0": "ibc/4017C65CEA338196ECCEC3FE3FE8258F23D1DE88F1D95750CC912C7A1C1016FF",
       "token1": "uosmo",
-      "current_sqrt_price": "0.605419317200887137536750928254499676",
-      "current_tick": "-6334675",
+      "current_sqrt_price": "0.605583879147686859696870748459272722",
+      "current_tick": "-6332682",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -47747,15 +47747,15 @@
       "incentives_address": "osmo17qye3ld54j52t2zr5fljnuumkzrqx90y74j79lf7ggs5xjxfvgas5fysgh",
       "spread_rewards_address": "osmo105zsheher6nc4d2vzcnaryzxe36385pt7yhygf86qms3zjyf0m3sv2mf7u",
       "id": "1623",
-      "current_tick_liquidity": "509856499655.008963429323269747",
+      "current_tick_liquidity": "41147188768683.763108249256240817",
       "token0": "ibc/E7905742CE2EA4EA5D592527DC89220C59B617DE803939FE7293805A64B484D7",
       "token1": "uosmo",
-      "current_sqrt_price": "0.205968516267228626862053394989501353",
-      "current_tick": "-14757698",
+      "current_sqrt_price": "0.205970847429272857405373041425107800",
+      "current_tick": "-14757602",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:36:45.332227878Z"
+      "last_liquidity_update": "2024-04-18T00:46:58.517688099Z"
     },
     {
       "@type": "/osmosis.gamm.v1beta1.Pool",
@@ -47967,14 +47967,14 @@
         {
           "token": {
             "denom": "ibc/B84F8CC583A54DA8173711C0B66B22FDC1954FEB1CA8DBC66C89919DAFE02000",
-            "amount": "146179500387"
+            "amount": "145253520020"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "846074320"
+            "amount": "851634795"
           },
           "weight": "536870912000000"
         }
@@ -48109,8 +48109,8 @@
       "current_tick_liquidity": "38703007848631760583759.546737342014796660",
       "token0": "ibc/69110FF673D70B39904FF056CFDFD58A90BEC3194303F45C32CB91B8B0A738EA",
       "token1": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5",
-      "current_sqrt_price": "0.004049115588216029910842104644506736",
-      "current_tick": "-44360467",
+      "current_sqrt_price": "0.004048544355339139683304775825329847",
+      "current_tick": "-44360929",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -48290,8 +48290,8 @@
       "current_tick_liquidity": "264591668842.688350318786456731",
       "token0": "ibc/208B2F137CDE510B44C41947C045CFDC27F996A9D990EA64460BDD5B3DBEB2ED",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.188709545262576057168838393101144845",
-      "current_tick": "-15438871",
+      "current_sqrt_price": "0.188654603640106451853218660658508984",
+      "current_tick": "-15440945",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -48370,8 +48370,8 @@
       "current_tick_liquidity": "4092555701.256457308924178231",
       "token0": "ibc/AC6EE43E608B5A7EEE460C960480BC1C3708010E32B2071C429DA259836E10C3",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "0.734899448553327437367527842237153487",
-      "current_tick": "-4599229",
+      "current_sqrt_price": "0.738614973047409077544228951455091467",
+      "current_tick": "-4544480",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
@@ -48422,15 +48422,15 @@
       "incentives_address": "osmo1rd2vsg2pwcnj0hwv7cup2vql93jpy0mvrwag2y2n4gadh0femyxq3tg4n0",
       "spread_rewards_address": "osmo1lx32uj4pckrwf5rgtk0myh9e5hvewhtgpm0kwqmezdthazyrqn6q7k76f4",
       "id": "1655",
-      "current_tick_liquidity": "32688275393.223371032062193561",
+      "current_tick_liquidity": "33169835896.702665633616166169",
       "token0": "factory/osmo17fel472lgzs87ekt9dvk0zqyh5gl80sqp4sk4n/LAB",
       "token1": "uosmo",
-      "current_sqrt_price": "8.028758860610595931347841526711780321",
-      "current_tick": "14446096",
+      "current_sqrt_price": "7.988649643458455611390148358907079884",
+      "current_tick": "14381852",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.010000000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:10.089852544Z"
+      "last_liquidity_update": "2024-04-18T00:45:13.922716069Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -48856,15 +48856,15 @@
       "incentives_address": "osmo1u5f3mw7kvj5t6mx3sterd8zkeknwfthz0xa2ukmhrxx6c3ym4h2qq6tf00",
       "spread_rewards_address": "osmo17relzmlmsmzumz58jzenjzhx58kz2q5kc3whsnymrr6jh2mpnxys9d5ksp",
       "id": "1671",
-      "current_tick_liquidity": "249301459917.802763558752582786",
+      "current_tick_liquidity": "366670276396.372852079089424770",
       "token0": "ibc/094FB70C3006906F67F5D674073D2DAFAFB41537E7033098F5C752F211E7B6C2",
       "token1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-      "current_sqrt_price": "1.835999746257696514910126982111981754",
-      "current_tick": "2370895",
+      "current_sqrt_price": "1.841174959118207511228509306294293756",
+      "current_tick": "2389925",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
-      "last_liquidity_update": "2024-04-18T00:38:49.543214839Z"
+      "last_liquidity_update": "2024-04-18T00:43:37.159607128Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -48900,14 +48900,14 @@
         {
           "token": {
             "denom": "ibc/094FB70C3006906F67F5D674073D2DAFAFB41537E7033098F5C752F211E7B6C2",
-            "amount": "220973275"
+            "amount": "221350498"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "843740330"
+            "amount": "842303873"
           },
           "weight": "536870912000000"
         }
@@ -48923,12 +48923,12 @@
       "current_tick_liquidity": "8008541427432679.673151845078202964",
       "token0": "ibc/2CD9F8161C3FC332E78EF0C25F6E684D09379FB2F56EF9267E7EC139642EC57B",
       "token1": "ibc/094FB70C3006906F67F5D674073D2DAFAFB41537E7033098F5C752F211E7B6C2",
-      "current_sqrt_price": "0.998926037672779738597356500893598131",
+      "current_sqrt_price": "0.998926037625629913095219126261474720",
       "current_tick": "-21468",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.000500000000000000",
-      "last_liquidity_update": "2024-04-17T23:50:18.610141329Z"
+      "last_liquidity_update": "2024-04-18T00:45:06.853111173Z"
     },
     {
       "@type": "/osmosis.concentratedliquidity.v1beta1.Pool",
@@ -49237,20 +49237,20 @@
       "future_pool_governor": "24h",
       "total_shares": {
         "denom": "gamm/pool/1687",
-        "amount": "142857107886643803064"
+        "amount": "142859179006752837008"
       },
       "pool_assets": [
         {
           "token": {
             "denom": "ibc/884EBC228DFCE8F1304D917A712AA9611427A6C1ECC3179B2E91D7468FB091A2",
-            "amount": "392752231688973132"
+            "amount": "392646348285225718"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "157614095660"
+            "amount": "157661170233"
           },
           "weight": "536870912000000"
         }
@@ -49336,14 +49336,14 @@
         {
           "token": {
             "denom": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
-            "amount": "68829463103"
+            "amount": "68847815532"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/69110FF673D70B39904FF056CFDFD58A90BEC3194303F45C32CB91B8B0A738EA",
-            "amount": "1425603629112332798078399"
+            "amount": "1425224372682401877122165"
           },
           "weight": "536870912000000"
         }
@@ -49368,14 +49368,14 @@
         {
           "token": {
             "denom": "ibc/69110FF673D70B39904FF056CFDFD58A90BEC3194303F45C32CB91B8B0A738EA",
-            "amount": "11325427546147928346716302"
+            "amount": "11325736719807794988739939"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
-            "amount": "56151111082"
+            "amount": "56149581317"
           },
           "weight": "536870912000000"
         }
@@ -49439,14 +49439,14 @@
         {
           "token": {
             "denom": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
-            "amount": "8244291439"
+            "amount": "8252477932"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "ibc/69110FF673D70B39904FF056CFDFD58A90BEC3194303F45C32CB91B8B0A738EA",
-            "amount": "1699328842774376150992963"
+            "amount": "1697646470055378293427533"
           },
           "weight": "536870912000000"
         }
@@ -49494,8 +49494,8 @@
       "current_tick_liquidity": "8786363941.290009411305853386",
       "token0": "ibc/AC6EE43E608B5A7EEE460C960480BC1C3708010E32B2071C429DA259836E10C3",
       "token1": "uosmo",
-      "current_sqrt_price": "0.775639934471702623622840545004564938",
-      "current_tick": "-3983827",
+      "current_sqrt_price": "0.779388242670641700023868123936448942",
+      "current_tick": "-3925540",
       "tick_spacing": "100",
       "exponent_at_price_one": "-6",
       "spread_factor": "0.002000000000000000",
